@@ -444,7 +444,7 @@ $RECYCLE.BIN/
 .idea/
 *.sln.iml
 obj/
-bin/Debug/
+bin/
 
 ##
 ## Visual Studio Code
